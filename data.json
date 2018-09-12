@@ -348,6 +348,18 @@
       "family": "Indo-European"
     },
     {
+      "iso639_3": "ase",
+      "name": [
+        "American Sign Language"
+      ]
+    },
+    {
+      "iso639_3": "asl",
+      "name": [
+        "Asilulu"
+      ]
+    },
+    {
       "iso639_1": "ay",
       "iso639_2": "aym",
       "iso639_2en": "aym",
@@ -2332,6 +2344,12 @@
       "family": "Indo-European"
     },
     {
+      "iso639_3": "mjs",
+      "name": [
+        "Miship"
+      ]
+    },
+    {
       "iso639_1": "mk",
       "iso639_2": "mkd",
       "iso639_2en": "mac",
@@ -2513,6 +2531,12 @@
           "displayName": "Mongolian - Mongolia",
           "cultureCode": "0x0450"
         }
+      ]
+    },
+    {
+      "iso639_3": "nan",
+      "name": [
+        "Min Nan Chinese"
       ]
     },
     {
@@ -7481,6 +7505,12 @@
       "family": ""
     },
     {
+      "iso639_3": "ser",
+      "name": [
+        "Serrano"
+      ]
+    },
+    {
       "iso639_1": "",
       "iso639_2": "sga",
       "iso639_2en": "sga",
@@ -7959,6 +7989,12 @@
       ],
       "directrion": "LTR",
       "family": ""
+    },
+    {
+      "iso639_3": "tnz",
+      "name": [
+        "Ten’edn"
+      ]
     },
     {
       "iso639_1": "",
