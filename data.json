@@ -127,6 +127,12 @@
       ]
     },
     {
+      "iso639_3": "amc",
+      "name": [
+        "Amahuaca"
+      ]
+    },
+    {
       "iso639_1": "am",
       "iso639_2": "amh",
       "iso639_2en": "amh",
@@ -305,6 +311,12 @@
       ]
     },
     {
+      "iso639_3": "arz",
+      "name": [
+        "Egyptian Arabic"
+      ]
+    },
+    {
       "iso639_1": "as",
       "iso639_2": "asm",
       "iso639_2en": "asm",
@@ -357,6 +369,12 @@
       "iso639_3": "asl",
       "name": [
         "Asilulu"
+      ]
+    },
+    {
+      "iso639_3": "axm",
+      "name": [
+        "Middle Armenian"
       ]
     },
     {
@@ -457,6 +475,12 @@
           "displayName": "Basque - Basque",
           "cultureCode": "0x042D"
         }
+      ]
+    },
+    {
+      "iso639_3": "bcy",
+      "name": [
+        "Bacama"
       ]
     },
     {
@@ -585,6 +609,12 @@
       "family": "Indo-European"
     },
     {
+      "iso639_3": "brm",
+      "name": [
+        "Barambu"
+      ]
+    },
+    {
       "iso639_1": "bg",
       "iso639_2": "bul",
       "iso639_2en": "bul",
@@ -623,6 +653,18 @@
       "family": "Sino-Tibetan",
       "countries": [
         "MMR"
+      ]
+    },
+    {
+      "iso639_3": "cam",
+      "name": [
+        "Cemuhî"
+      ]
+    },
+    {
+      "iso639_3": "can",
+      "name": [
+        "Chambri"
       ]
     },
     {
@@ -774,6 +816,12 @@
       "family": "Turkic"
     },
     {
+      "iso639_3": "cmn",
+      "name": [
+        "Mandarin Chinese"
+      ]
+    },
+    {
       "iso639_1": "kw",
       "iso639_2": "cor",
       "iso639_2en": "cor",
@@ -907,6 +955,12 @@
       "family": "Indo-European",
       "countries": [
         "AFG"
+      ]
+    },
+    {
+      "iso639_3": "pst",
+      "name": [
+        "Central Pashto"
       ]
     },
     {
@@ -1650,6 +1704,12 @@
       ]
     },
     {
+      "iso639_3": "hmv",
+      "name": [
+        "Hmong Dô"
+      ]
+    },
+    {
       "iso639_1": "hu",
       "iso639_2": "hun",
       "iso639_2en": "hun",
@@ -1712,6 +1772,18 @@
       ]
     },
     {
+      "iso639_3": "inn",
+      "name": [
+        "Isinai"
+      ]
+    },
+    {
+      "iso639_3": "ino",
+      "name": [
+        "Inoke-Yate"
+      ]
+    },
+    {
       "iso639_1": "ie",
       "iso639_2": "ile",
       "iso639_2en": "ile",
@@ -1724,6 +1796,12 @@
       ],
       "direction": "LTR",
       "family": "Constructed"
+    },
+    {
+      "iso639_3": "ilk",
+      "name": [
+        "Ilongot"
+      ]
     },
     {
       "iso639_1": "ga",
@@ -1859,6 +1937,12 @@
       ],
       "direction": "LTR",
       "family": "Eskimo–Aleut"
+    },
+    {
+      "iso639_3": "ium",
+      "name": [
+        "Iu Mien"
+      ]
     },
     {
       "iso639_1": "ja",
@@ -2068,6 +2152,12 @@
       ]
     },
     {
+      "iso639_3": "knn",
+      "name": [
+        "Konkani (individual language)"
+      ]
+    },
+    {
       "iso639_1": "kv",
       "iso639_2": "kom",
       "iso639_2en": "kom",
@@ -2178,6 +2268,12 @@
       "family": "Indo-European",
       "countries": [
         "VAT"
+      ]
+    },
+    {
+      "iso639_3": "ltn",
+      "name": [
+        "Latundê"
       ]
     },
     {
@@ -2388,6 +2484,12 @@
       "family": "Austronesian",
       "countries": [
         "MDG"
+      ]
+    },
+    {
+      "iso639_3": "mli",
+      "name": [
+        "Malimpung"
       ]
     },
     {
@@ -2806,6 +2908,12 @@
       "family": "Indo-European"
     },
     {
+      "iso639_3": "ort",
+      "name": [
+        "Adivasi Oriya"
+      ]
+    },
+    {
       "iso639_1": "os",
       "iso639_2": "oss",
       "iso639_2en": "oss",
@@ -2820,6 +2928,12 @@
       "direction": "LTR",
       "family": "Indo-European",
       "countries": []
+    },
+    {
+      "iso639_3": "pak",
+      "name": [
+        "Parakanã"
+      ]
     },
     {
       "iso639_1": "pa",
@@ -2860,6 +2974,12 @@
       ],
       "direction": "LTR",
       "family": "Indo-European"
+    },
+    {
+      "iso639_3": "far",
+      "name": [
+        "Fataleka"
+      ]
     },
     {
       "iso639_1": "fa",
@@ -3097,6 +3217,12 @@
       ]
     },
     {
+      "iso639_3": "src",
+      "name": [
+        "Logudorese Sardinian"
+      ]
+    },
+    {
       "iso639_1": "sc",
       "iso639_2": "srd",
       "iso639_2en": "srd",
@@ -3230,6 +3356,12 @@
       "family": "Niger–Congo",
       "countries": [
         "ZWE"
+      ]
+    },
+    {
+      "iso639_3": "sig",
+      "name": [
+        "Paasaal"
       ]
     },
     {
@@ -3535,6 +3667,12 @@
       ]
     },
     {
+      "iso639_3": "str",
+      "name": [
+        "Straits Salish"
+      ]
+    },
+    {
       "iso639_1": "sv",
       "iso639_2": "swe",
       "iso639_2en": "swe",
@@ -3566,6 +3704,12 @@
       ]
     },
     {
+      "iso639_3": "tag",
+      "name": [
+        "Tagoi"
+      ]
+    },
+    {
       "iso639_1": "ta",
       "iso639_2": "tam",
       "iso639_2en": "tam",
@@ -3591,6 +3735,18 @@
           "displayName": "Tamil - India",
           "cultureCode": "0x0449"
         }
+      ]
+    },
+    {
+      "iso639_3": "taw",
+      "name": [
+        "Tai"
+      ]
+    },
+    {
+      "iso639_3": "teg",
+      "name": [
+        "Teke-Tege"
       ]
     },
     {
@@ -3910,6 +4066,12 @@
       ]
     },
     {
+      "iso639_3": "ura",
+      "name": [
+        "Urarina"
+      ]
+    },
+    {
       "iso639_1": "ur",
       "iso639_2": "urd",
       "iso639_2en": "urd",
@@ -4007,6 +4169,12 @@
       ]
     },
     {
+      "iso639_3": "vis",
+      "name": [
+        "Vishavan"
+      ]
+    },
+    {
       "iso639_1": "vo",
       "iso639_2": "vol",
       "iso639_2en": "vol",
@@ -4033,6 +4201,12 @@
       ],
       "direction": "LTR",
       "family": "Indo-European"
+    },
+    {
+      "iso639_3": "wuu",
+      "name": [
+        "Wu Chinese"
+      ]
     },
     {
       "iso639_1": "cy",
@@ -4132,6 +4306,12 @@
       ]
     },
     {
+      "iso639_3": "yue",
+      "name": [
+        "Yue Chinese"
+      ]
+    },
+    {
       "iso639_1": "za",
       "iso639_2": "zha",
       "iso639_2en": "zha",
@@ -4222,6 +4402,12 @@
       "family": ""
     },
     {
+      "iso639_3": "aeb",
+      "name": [
+        "Tunisian Arabic"
+      ]
+    },
+    {
       "iso639_1": "",
       "iso639_2": "afa",
       "iso639_2en": "afa",
@@ -4248,6 +4434,12 @@
       ],
       "directrion": "LTR",
       "family": ""
+    },
+    {
+      "iso639_3": "aig",
+      "name": [
+        "Antigua and Barbuda Creole English"
+      ]
     },
     {
       "iso639_1": "",
@@ -4664,6 +4856,12 @@
       "family": ""
     },
     {
+      "iso639_3": "blg",
+      "name": [
+        "Balau"
+      ]
+    },
+    {
       "iso639_1": "",
       "iso639_2": "bnt",
       "iso639_2en": "bnt",
@@ -5043,6 +5241,12 @@
       ],
       "directrion": "LTR",
       "family": ""
+    },
+    {
+      "iso639_3": "cro",
+      "name": [
+        "Crow"
+      ]
     },
     {
       "iso639_1": "",
@@ -5708,6 +5912,12 @@
       "family": ""
     },
     {
+      "iso639_3": "hak",
+      "name": [
+        "Hakka Chinese"
+      ]
+    },
+    {
       "iso639_1": "",
       "iso639_2": "haw",
       "iso639_2en": "haw",
@@ -5720,6 +5930,12 @@
       ],
       "directrion": "LTR",
       "family": ""
+    },
+    {
+      "iso639_3": "hbs",
+      "name": [
+        "Serbo-Croatian"
+      ]
     },
     {
       "iso639_1": "",
@@ -5904,6 +6120,12 @@
       ],
       "directrion": "LTR",
       "family": ""
+    },
+    {
+      "iso639_3": "iri",
+      "name": [
+        "Irigwe"
+      ]
     },
     {
       "iso639_1": "",
@@ -6104,6 +6326,12 @@
       "family": ""
     },
     {
+      "iso639_3": "kis",
+      "name": [
+        "Kis"
+      ]
+    },
+    {
       "iso639_1": "",
       "iso639_2": "kmb",
       "iso639_2en": "kmb",
@@ -6182,6 +6410,12 @@
       ],
       "directrion": "LTR",
       "family": ""
+    },
+    {
+      "iso639_3": "kri",
+      "name": [
+        "Krio"
+      ]
     },
     {
       "iso639_1": "",
@@ -6294,6 +6528,12 @@
       ],
       "directrion": "LTR",
       "family": ""
+    },
+    {
+      "iso639_3": "leb",
+      "name": [
+        "Lala-Bisa"
+      ]
     },
     {
       "iso639_1": "",
@@ -6689,6 +6929,12 @@
       "family": "",
       "countries": [
         "BFA"
+      ]
+    },
+    {
+      "iso639_3": "mpt",
+      "name": [
+        "Mian"
       ]
     },
     {
@@ -7179,6 +7425,12 @@
       "family": ""
     },
     {
+      "iso639_3": "pes",
+      "name": [
+        "Iranian Persian"
+      ]
+    },
+    {
       "iso639_1": "",
       "iso639_2": "phi",
       "iso639_2en": "phi",
@@ -7205,6 +7457,12 @@
       ],
       "directrion": "LTR",
       "family": ""
+    },
+    {
+      "iso639_3": "pis",
+      "name": [
+        "Pijin"
+      ]
     },
     {
       "iso639_1": "",
@@ -7248,6 +7506,12 @@
       ],
       "directrion": "LTR",
       "family": ""
+    },
+    {
+      "iso639_3": "prp",
+      "name": [
+        "Parsi"
+      ]
     },
     {
       "iso639_1": "",
@@ -7449,6 +7713,12 @@
       "family": ""
     },
     {
+      "iso639_3": "sbn",
+      "name": [
+        "Sindhi Bhil"
+      ]
+    },
+    {
       "iso639_1": "",
       "iso639_2": "scn",
       "iso639_2en": "scn",
@@ -7607,6 +7877,12 @@
       ],
       "directrion": "LTR",
       "family": ""
+    },
+    {
+      "iso639_3": "sln",
+      "name": [
+        "Salinan"
+      ]
     },
     {
       "iso639_1": "",
